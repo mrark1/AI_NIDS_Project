@@ -44,7 +44,6 @@ This project uses **Machine Learning (Random Forest Classifier)** to:
 
 ## 📂 Project Structure
 AI_NIDS_Project/  
-│
 ├── nids_model.py  
 ├── nids_main.py  
 ├── requirements.txt  
@@ -102,4 +101,5 @@ B.Tech CSE (AIML) – 2nd Year
 
 ## 📎 License
 This project is for educational and internship purposes.
+
 
